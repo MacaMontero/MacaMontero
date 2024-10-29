@@ -5,8 +5,7 @@
 
 - 💬 Contactame en **macarena.montero95@gmail.com**
 
-- 📄 Conoce mis experiencias [Recientemente completé un bootcamp en desarrollo web. - He trabajado en proyectos frontend usando HTML, CSS, JavaScript y React.](Recientemente completé un bootcamp en desarrollo web. - He trabajado en proyectos frontend usando HTML, CSS, JavaScript y React.)
-
+- 📄 Conoce mis experiencias [Recientemente completé un bootcamp en desarrollo web. - He trabajado en proyectos frontend usando HTML, CSS, JavaScript y React.]
 - ⚡ Fun fact **🎮 Amante de los videojuegos, el aprendizaje constante y siempre buscando un desafío para seguir creciendo en desarrollo web.**
 
 <h3 align="left">Connect with me:</h3>
